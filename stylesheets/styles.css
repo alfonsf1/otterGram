@@ -39,6 +39,13 @@ a {
     text-decoration: none;
 }
 
+button{
+    display: block;
+    width: 7%;
+    height: 5%;
+    margin: auto;
+  }
+
 .main-header {
     flex: 0 1 auto;
 
